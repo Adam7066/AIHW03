@@ -7,6 +7,16 @@
 - 當所有的棋子都被移除時，則遊戲結束。
 - 哪一方取得較多的棋子，則為勝利。
 
+## 📦 Install
+- 請前往 [Releases](https://github.com/Adam7066/AIHW03/releases) 下載
+
+### MacOS
+**If you encounter the error message `"AIHW03" is damaged and can't be opened. You should move it to the Trash`. while installing software on macOS, it may be due to security settings restrictions in macOS. To solve this problem, please try the following command in Terminal:**
+```bash
+sudo xattr -r -d com.apple.quarantine /YOUR_PATH/AIHW03.app
+```
+
 ---
+
 ![](./images/1.png)
 ![](./images/2.png)
